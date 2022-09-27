@@ -1,0 +1,9 @@
+	NEconomy = {
+		EXPANSION_COST_BASE					= 225.0		# The influence base cost of outpost
+		EXPANSION_COST_DISTANCE				= 150.0		# Added per hyperlane jump away
+
+		CLAIM_COST_BASE						= 100.0		# The influence base cost of making claims
+		CLAIM_COST_STARBASE					= 50.0		# Added cost for upgraded starbase
+		CLAIM_COST_COLONY					= 50.0		# Added cost for colonized system
+		CLAIM_COST_DISTANCE					= 50.0		# Added per hyperlane jump away
+	}
